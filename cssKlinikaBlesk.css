@@ -29,6 +29,7 @@ table {
 	border-collapse: collapse;
 	overflow: hidden;
 	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	font-size: 1.1em;
 }
 
 th,
@@ -62,8 +63,3 @@ a:active{
 span {
     color: rgb(235, 202, 229);
 }
-@media screen and (max-width: 1200px) {
-	table {
-		width: 80%;
-	}
-  }
