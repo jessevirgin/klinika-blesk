@@ -13,7 +13,7 @@ body {
 	margin: 0;
 	font-family: sans-serif;
 	font-weight: 100;
-        font-size: 1.3em;
+        font-size: 1.1em
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    font-size: 1.3em;
+    font-size: 1.1em;
     background: linear-gradient(45deg, #49a09d, #5f2c82);
 }
 
