@@ -21,6 +21,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    font-size: 1.3em;
     background: linear-gradient(45deg, #49a09d, #5f2c82);
 }
 
