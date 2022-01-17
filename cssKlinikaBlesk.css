@@ -27,7 +27,7 @@ body {
 table {
 	width: 90%;
 	border-collapse: collapse;
-	overflow: hidden;
+	overflow: scroll;
 	box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 
@@ -66,6 +66,19 @@ span {
 @media screen and (max-width: 570px){
 	.container {
 		font-size: 0.8em;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 470px){
+	.container {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 350px){
+	.container {
+		font-size: 0.6em;
 		width: 100%;
 	}
 }
