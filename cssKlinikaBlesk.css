@@ -29,6 +29,7 @@ table {
 	width: 90%;
 	border-collapse: collapse;
 	overflow: hidden;
+        font-size: 1.1 em;
 	box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 
@@ -37,10 +38,12 @@ td {
 	padding: 15px;
 	background-color: rgba(255,255,255,0.2);
 	color: #fff;
+        font-size: 1.1em;
 }
 
 th {
 	text-align: left;
+        font-size: 1.1em;
 }
 
 thead {
